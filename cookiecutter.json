@@ -1,0 +1,8 @@
+{
+    "project_title": "Un_projecto_hiper_mega_genial",
+    "project_slug": "{{ cookiecutter.project_title.lower().replace(' ', '_').replace('-', '_')}}",
+    "project_description": "Algo genial",
+    "project_author_name": "Micho",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.11"
+}
